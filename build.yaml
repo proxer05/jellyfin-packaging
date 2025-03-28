@@ -134,7 +134,7 @@ docker:
       QEMU_ARCH: arm
       TARGET_ARCH: arm/v7
   dockerfile: docker/Dockerfile
-  imagename: jellyfin/jellyfin
+  imagename: proxer05/jellyfin-test
 
 # Nuget packages
 nuget:
